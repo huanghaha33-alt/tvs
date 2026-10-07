@@ -1,0 +1,6 @@
+{
+  "name": "DIYP 电视直播",
+  "description": "专为电视盒子打造的 Android TV IPTV 播放器，基于 libVLC 高性能解码内核，支持 M3U、XMLTV EPG、遥控器导航与数字换台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
